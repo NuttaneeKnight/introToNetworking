@@ -60,3 +60,9 @@ Ethernet adapter Bluetooth Network Connection:
 - The frame is the Payload - All of the data that is document or data has been created
 - Typically the frame has Payload, Dest MAC, Source MAC
 - Think of the Envelope how you put the address. 
+
+# Summary
+- LAN = Local Area Network
+- Ethernet is used to connect LAN devices
+- Every NIC (Network Interface Card) has a unique MAC (Media Access Control) address.
+- To find it use command prompt PC: ipconfic /all or Mac users ifconfig /all
