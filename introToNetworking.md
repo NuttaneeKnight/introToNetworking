@@ -11,8 +11,9 @@
 # MAC - Media Access Control Address
 - Every computer has it's own unique MAC 
 - This is hardcoded in the Network Interface Card
+- Physical Address is the MAC Address. 
 
-PS C:\Users> ipconfig
+PS C:\Users> ipconfig /all
 
 Windows IP Configuration
 
