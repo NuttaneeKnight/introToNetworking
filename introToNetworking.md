@@ -54,3 +54,9 @@ Ethernet adapter Bluetooth Network Connection:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . :
+
+# If the computer MAC1 wants to communicate with MAC3
+- The ethernet frame 
+- The frame is the Payload - All of the data that is document or data has been created
+- Typically the frame has Payload, Dest MAC, Source MAC
+- Think of the Envelope how you put the address. 
