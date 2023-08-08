@@ -76,3 +76,13 @@ Ethernet adapter Bluetooth Network Connection:
 # Broadcast 
 - A switch is a broadcast domain
 - More devices = more broadcast traffic
+- More devices = larger MAC table
+- A router is used to break up L2 broadcasr domains
+
+
+# Summary
+- Unicast is one-to-one
+- Hubs are dumb
+- Switches have MAC Tables
+- L2 segments = broadcast domain
+- Routers break up broadcast domains
