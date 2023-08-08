@@ -72,3 +72,7 @@ Ethernet adapter Bluetooth Network Connection:
 - A hub is a collision domain
 - A bridge help fixes the collision, breaks it in half aka switch.
 - Current we use the swich now which has it's own port for only that collision
+
+# Broadcast 
+- A switch is a broadcast domain
+- More devices = more broadcast traffic
