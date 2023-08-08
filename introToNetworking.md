@@ -66,3 +66,6 @@ Ethernet adapter Bluetooth Network Connection:
 - Ethernet is used to connect LAN devices
 - Every NIC (Network Interface Card) has a unique MAC (Media Access Control) address.
 - To find it use command prompt PC: ipconfic /all or Mac users ifconfig /all
+
+# Hub, Bridges and Switches
+- Hub isn't gret since it cast to all the MACs, collision happens way too often
