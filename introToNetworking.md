@@ -69,3 +69,5 @@ Ethernet adapter Bluetooth Network Connection:
 
 # Hub, Bridges and Switches
 - Hub isn't gret since it cast to all the MACs, collision happens way too often
+- A hub is a collision domain
+- A bridge help fixes the collision
