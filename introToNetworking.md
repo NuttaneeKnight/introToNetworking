@@ -86,3 +86,6 @@ Ethernet adapter Bluetooth Network Connection:
 - Switches have MAC Tables
 - L2 segments = broadcast domain
 - Routers break up broadcast domains
+
+# Bum Traffic
+- Broadcast Unknown Unicast and Multicast
