@@ -90,5 +90,17 @@ Ethernet adapter Bluetooth Network Connection:
 # Bum Traffic
 - Broadcast Unknown Unicast and Multi-cast
 - IP Addresss - we can control and we assign it to this machine. It is similar to the phone number, it is unique
-- ARP Request: Broadcast to discover MAC associated with an IP Address. This is a layer 2 Ethernet broadcast, used to discover a MAC address associated with the particular IP Address. It then broadcasts to every port with the right IP Address and it will respond back with the MAC address
+- ARP Request: Broadcast to discover MAC associated with an IP Address. This is a layer 2 Ethernet broadcast, used to discover a MAC address associated with the particular IP Address. It then broadcasts to every port with the right IP Address and it will respond back with the MAC address, hence ARP Response
+- ARP Table is basically a table full of the connection association.
+- If you want to find out the ARP Table -> Command Line -> arp -a
+- Unknown Unicast - the switch port doesn't know which MAC address is on. The switch will respond with the unknown and send out to all switches. 
+- Multicast - Sent to members of a group, Multi-destination traffic
+# Summary
+- Unique IP Address per machine - Layer 3 unique address. 
+- ARP requests are L2 broadcasts
+- Unknown unicast - If a switch doesn't know how to get traffic to a certain MAC addrress, it will issue and unknown unicast to ascertain the correct destination MAC. 
+- Multicast - A single source sens a multicast in order to reach a group of specific recipients. 
+
+
+
 
