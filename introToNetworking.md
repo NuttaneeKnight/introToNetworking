@@ -102,5 +102,9 @@ Ethernet adapter Bluetooth Network Connection:
 - Multicast - A single source sens a multicast in order to reach a group of specific recipients. 
 
 
+# Router
+- When the network gets larger it cn be problematic when we broadcast to too many switches
+- We have to break it down to a smaller ethernet network, this is when a router comes in. 
+
 
 
