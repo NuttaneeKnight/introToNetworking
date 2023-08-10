@@ -88,4 +88,6 @@ Ethernet adapter Bluetooth Network Connection:
 - Routers break up broadcast domains
 
 # Bum Traffic
-- Broadcast Unknown Unicast and Multicast
+- Broadcast Unknown Unicast and Multi-cast
+- IP Addresss - we can control and we assign it to this machine. It is similar to the phone number, it is unique
+- 
