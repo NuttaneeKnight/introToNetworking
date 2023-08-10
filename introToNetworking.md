@@ -90,4 +90,5 @@ Ethernet adapter Bluetooth Network Connection:
 # Bum Traffic
 - Broadcast Unknown Unicast and Multi-cast
 - IP Addresss - we can control and we assign it to this machine. It is similar to the phone number, it is unique
-- 
+- ARP Request: Broadcast to discover MAC associated with an IP Address. This is a layer 2 Ethernet broadcast, used to discover a MAC address associated with the particular IP Address. 
+
