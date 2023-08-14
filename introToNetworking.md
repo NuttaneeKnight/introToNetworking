@@ -109,5 +109,11 @@ Ethernet adapter Bluetooth Network Connection:
 - Router - is a machinne that connects between the switches
 - Router breaks each switch into a segment, Segment 1 - 10.1.1x /24 Segment2 - 10.1.2x /24
 - Will cut the broadcast in half and so does the MAC address table
-- 
+- There is a default gateway that the router knows what to do with it so it can connect to the destination computer. 
+
+# Summary
+- Routers break up the L2 network
+- Each L2 segment has a subnet
+- Routers do not pass L2 broadcasts
+
 
