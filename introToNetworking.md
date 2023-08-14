@@ -120,3 +120,8 @@ Ethernet adapter Bluetooth Network Connection:
 - All of the computers in a specific subnet will use the interface on the router as their Default Gateway.
 - A router automatically knows how to send traffic to the networks that it is directly to. (True)
 - What is the effect of placing a router between two layer 2 Ethernet nnetworks? Each ehternet network is a seperate broadcast domain, and has a different IP addressing scheme. 
+- Which device uses a MAC table to forward traffic? Ethernet Switch
+
+# IP Addressing and Subnet
+- 10.1.1.11 (private range network) All the dots are referred as "Octets"
+- It's made up of 8 binary digits hence "Octets"
