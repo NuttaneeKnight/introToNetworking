@@ -115,5 +115,7 @@ Ethernet adapter Bluetooth Network Connection:
 - Routers break up the L2 network
 - Each L2 segment has a subnet
 - Routers do not pass L2 broadcasts
+- The router is the default gateway
+- Routes for directly connected networks are automatic
 
 
