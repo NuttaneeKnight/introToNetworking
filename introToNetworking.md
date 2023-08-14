@@ -107,6 +107,6 @@ Ethernet adapter Bluetooth Network Connection:
 - We have to break it down to a smaller ethernet network, this is when a router comes in. 
 - Router - is a machinne that connects between the switches
 - Router breaks each switch into a segment, Segment 1 - 10.1.1x /24 Segment2 - 10.1.2x /24
-
+- Break up the llayer 2 broadcast domain by using the router
 
 
