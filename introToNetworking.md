@@ -117,5 +117,6 @@ Ethernet adapter Bluetooth Network Connection:
 - Routers do not pass L2 broadcasts
 - The router is the default gateway
 - Routes for directly connected networks are automatic
-
-
+- All of the computers in a specific subnet will use the interface on the router as their Default Gateway.
+- A router automatically knows how to send traffic to the networks that it is directly to. (True)
+- What is the effect of placing a router between two layer 2 Ethernet nnetworks? Each ehternet network is a seperate broadcast domain, and has a different IP addressing scheme. 
