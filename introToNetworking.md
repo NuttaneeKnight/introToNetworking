@@ -123,7 +123,7 @@ Ethernet adapter Bluetooth Network Connection:
 - Which device uses a MAC table to forward traffic? Ethernet Switch
 
 # IP Addressing and Subnet
-- 10.1.1.11 (private range network) All the dots are referred as "Octets"
+- 10.1.1.11/24 or /16 (private range network) All the dots are referred as "Octets"
 - It's made up of 8 binary digits hence "Octets"
 - They aree starts with 10.1 it's called slash 24 it means the first 24 bits are the network address. 
 - The last 8 bit .0 is the addresses of the computer.
