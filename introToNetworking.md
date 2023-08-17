@@ -127,7 +127,9 @@ Ethernet adapter Bluetooth Network Connection:
 - It's made up of 8 binary digits hence "Octets"
 - They aree starts with 10.1 it's called slash 24 it means the first 24 bits are the network address. 
 - The last 8 bit .0 is the addresses of the computer.
+
 - 10.1.1.0 / 24
 - Network Addresses: 10.1.1.0
 - Default Gateway: 10.1.1.1 - the first usable one, any subnet will pass here
-- Broadcast Address: 10.1.1.255 The highest one 
+- Broadcast Address: 10.1.1.255 The highest one, broadcast to every single device 
+Usable: 10.1.1.2 - 10.1.1.254
