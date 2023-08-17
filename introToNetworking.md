@@ -138,3 +138,4 @@ Usable: 10.1.1.2 - 10.1.1.254
 - Slash notation = /24, /16, /8 etc. Network addresses in bits
 - Network Addresses: 10.1.1.0
 - Broadcast Addresses: 10.1.1.255
+-In the following example: /24, /16, /8, as the bits contained in the Network Address become smaller it opens up the ability to have a greater number of hosts.
