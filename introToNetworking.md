@@ -133,3 +133,8 @@ Ethernet adapter Bluetooth Network Connection:
 - Default Gateway: 10.1.1.1 - the first usable one, any subnet will pass here
 - Broadcast Address: 10.1.1.255 The highest one, broadcast to every single device 
 Usable: 10.1.1.2 - 10.1.1.254
+
+# Summary
+- Slash notation = /24, /16, /8 etc. Network addresses in bits
+- Network Addresses: 10.1.1.0
+- Broadcast Addresses: 10.1.1.255
