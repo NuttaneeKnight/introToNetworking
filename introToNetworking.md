@@ -126,3 +126,5 @@ Ethernet adapter Bluetooth Network Connection:
 - 10.1.1.11 (private range network) All the dots are referred as "Octets"
 - It's made up of 8 binary digits hence "Octets"
 - They aree starts with 10.1 it's called slash 24 it means the first 24 bits are the network address. 
+- The last 8 bit .0 is the addresses of the computer.
+- 
