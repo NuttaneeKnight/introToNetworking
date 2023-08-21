@@ -145,3 +145,5 @@ Usable: 10.1.1.2 - 10.1.1.254
 - L2 MAC addresses are local to a segment
 - Switches forward based on MAC
 - Routers forward based on IP
+- Routers make forwarding decisions based on Layer 3 IP addresses. 
+- 
