@@ -148,3 +148,6 @@ Usable: 10.1.1.2 - 10.1.1.254
 - Routers make forwarding decisions based on Layer 3 IP addresses. 
 - True: As traffic hits a router and destination MAC addresses are discarded and new source and destination MAC addresses are utilized on the destination segment. 
 - Switches forward traffic based on source and destination MAC addresses, within the local, "Layer 2" ethernet segment. 
+
+# VLANs
+- 
