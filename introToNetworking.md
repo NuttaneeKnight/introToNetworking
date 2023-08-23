@@ -151,4 +151,6 @@ Usable: 10.1.1.2 - 10.1.1.254
 
 # VLANs
 - The Router can help controls the security in the network seperates by switches. It is called physical segmentations, it means that each devices has it's own switch. The only way that they can communicate is through the router
-- 
+- However, there is a problem there are many swiches. It is easier to maintain one switch instead of many. We have to find a logic that one single switch can segment and force the traffic trhough the router. 
+- Instead of the devices we will name it a subnet.
+- VLAN - Virtual Local Area Network comes in. 
