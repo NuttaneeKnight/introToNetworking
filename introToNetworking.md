@@ -150,5 +150,5 @@ Usable: 10.1.1.2 - 10.1.1.254
 - Switches forward traffic based on source and destination MAC addresses, within the local, "Layer 2" ethernet segment. 
 
 # VLANs
-- The Router can help controls the security in the network seperates by switches. It is called physical segmentations, it means that each devices has it's own switch
+- The Router can help controls the security in the network seperates by switches. It is called physical segmentations, it means that each devices has it's own switch. The only way that they can communicate is through the router
 - 
