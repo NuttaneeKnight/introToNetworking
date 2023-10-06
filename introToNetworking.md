@@ -154,3 +154,4 @@ Usable: 10.1.1.2 - 10.1.1.254
 - However, there is a problem there are many swiches. It is easier to maintain one switch instead of many. We have to find a logic that one single switch can segment and force the traffic trhough the router. 
 - Instead of the devices we will name it a subnet.
 - VLAN - Virtual Local Area Network comes in. 
+- Physical segmentation - setting up the switches to control the trafic - draw back is too many switches
