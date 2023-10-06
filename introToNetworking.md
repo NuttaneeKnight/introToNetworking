@@ -156,3 +156,14 @@ Usable: 10.1.1.2 - 10.1.1.254
 - VLAN - Virtual Local Area Network comes in. Just use the logic to connect them instead of having too many switches
 - Physical segmentation - setting up the switches to control the trafic - draw back is too many switches
 - Trunk Port - is a port that is capable of carrying multiple VLANS
+
+# Recap
+- VLANs - Logical Segmentation
+- Each VLAN has a subnet
+- Each VLAN is a broadcast domain
+- Each VLAN has a MAC table
+- Trunk port - carries multiple VLANs
+- Access port - carries a single VLAN only one single maching
+- By utilizing VLLANs,  single switch one can have multiple, logical segments
+- All of the machines in VLAN are a part of the seperate subnets - False
+ - Each VLAN is a broadcast domain and has its own MAC Table
