@@ -167,3 +167,6 @@ Usable: 10.1.1.2 - 10.1.1.254
 - By utilizing VLLANs,  single switch one can have multiple, logical segments
 - All of the machines in VLAN are a part of the seperate subnets - False
  - Each VLAN is a broadcast domain and has its own MAC Table
+
+ # WANs
+ 
